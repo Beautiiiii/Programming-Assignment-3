@@ -63,3 +63,18 @@ public static int prec(char x) {
     return 0;  
 }  
 }  
+
+
+
+
+
+Output:
+Infix expression: a-b/(c+d-e)*(f^g*h+i) 
+Postfix expression: abcd+e-/fgh*i+^*-
+
+Infix expression: a-b/(c+d-e)*(f^g*h+i) 
+Postfix expression: abcd+e-/fgh*i+^*-
+
+Infix expression: 1+2+3^4 
+Postfix expression: +1+23^4
+[image](https://drive.google.com/file/d/1ePRPsIpSuOX8YT6loS0v83URM09Y1APV/view?usp=sharing)
